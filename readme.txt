@@ -6,7 +6,8 @@ Sitemap:
 - other: 
 	+ css: style.css
 	+ js: script.js
-	+ .env
+	+ .env 
+        > Password using PHPMailer is an App Password of account Google, you must to create that.
 	+ composer.json
     + vendor
 
